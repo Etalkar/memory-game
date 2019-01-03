@@ -7,7 +7,7 @@ This game was developed using HTML, CSS, and Javascript.
 
 * [Instructions](#instructions)
 * [How the game works](#howthegameworks)
-* [Instructions](#howyourrated)
+* [How you're rated](#howyourrated)
 * [Contributing](#contributing)
 
 ## Instructions
@@ -28,7 +28,7 @@ Each turn:
 
 Replay to see if you can beat your time and get a better rating!
 
-## How your rated
+## How you're rated
 
 Try to complete the game as quickly as you can, with the least amount of moves possible. This will affect your overall star rating, with 3 stars being the best, and 1 being the worst:
 
