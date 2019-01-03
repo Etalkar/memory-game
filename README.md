@@ -8,6 +8,7 @@ This game was developed using HTML, CSS, and Javascript.
 * [Instructions](#instructions)
 * [How the game works](#how-the-game-works)
 * [How you're rated](#how-youre-rated)
+* [Built With](#built-with)
 * [Contributing](#contributing)
 
 ## Instructions
@@ -35,6 +36,10 @@ Try to complete the game as quickly as you can, with the least amount of moves p
 * 3 stars - game completed in 12 moves or less
 * 2 stars - game completed in 19 moves or less
 * 1 star - game completed in 20 moves or more
+
+## Built With
+* [Bootstrap Font Awesome](https://fontawesome.com/) - The icons used
+* [Google Fonts (Coda)](https://fonts.google.com/specimen/Coda) - The fonts used
 
 ## Contributing
 
