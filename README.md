@@ -7,12 +7,13 @@ This game was developed using HTML, CSS, and Javascript.
 
 * [Instructions](#instructions)
 * [How the game works](#howthegameworks)
-* [Instructions](#howyourrated)
+* [How you're rated](#howyourrated)
+* [Built With](#built-with)
 * [Contributing](#contributing)
 
 ## Instructions
 
-Start playing by downloading the game files or cloning the directory. Once you download the game just open up the `index.html` file in your browser of choice and have fun!
+Start playing by downloading the game files or cloning the directory. Once you download the game just open up the `index.html` file in your browser and have fun!
 
 ## How the game works
 
@@ -28,13 +29,17 @@ Each turn:
 
 Replay to see if you can beat your time and get a better rating!
 
-## How your rated
+## How you're rated
 
 Try to complete the game as quickly as you can, with the least amount of moves possible. This will affect your overall star rating, with 3 stars being the best, and 1 being the worst:
 
 * 3 stars - game completed in 12 moves or less
 * 2 stars - game completed in 19 moves or less
 * 1 star - game completed in 20 moves or more
+
+## Built With
+* [Bootstrap Font Awesome](https://fontawesome.com/) - The icons used
+* [Google Fonts (Coda)](https://fonts.google.com/specimen/Coda) - The fonts used
 
 ## Contributing
 
