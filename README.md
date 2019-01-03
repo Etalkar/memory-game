@@ -6,8 +6,8 @@ This game was developed using HTML, CSS, and Javascript.
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [How the game works](#howthegameworks)
-* [How you're rated](#howyourrated)
+* [How the game works](#how-the-game-works)
+* [How you're rated](#how-youre-rated)
 * [Built With](#built-with)
 * [Contributing](#contributing)
 
